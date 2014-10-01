@@ -5,7 +5,7 @@ body {
   position: relative;
   background-image: url("https://cloud.githubusercontent.com/assets/8481204/4476314/1b83455e-4975-11e4-8bc6-f4087437e94a.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .well {
