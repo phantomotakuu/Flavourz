@@ -14,11 +14,11 @@ body {
 }
 
 h2 {
-    color: rgba(0,0,0);
+    color: black;
 }
 
 p {
-    color: rgba(0,128,0);
+    color: green;
 }
 
 li {
